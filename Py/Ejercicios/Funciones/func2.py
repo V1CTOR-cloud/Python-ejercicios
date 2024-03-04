@@ -26,7 +26,8 @@ inventario_jugador = {
     "pociones": (10, "consumible"),
     "armadura": (70, "equipo"),
     "amuleto": (90, "accesorio"),
-    "botas": (75, "equipo")
+    "botas": (75, "equipo"),
+    
 }
 
 print("¡Bienvenido al juego!")

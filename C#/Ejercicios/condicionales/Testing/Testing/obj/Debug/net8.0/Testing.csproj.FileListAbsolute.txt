@@ -1,0 +1,15 @@
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\bin\Debug\net8.0\Testing.exe
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\bin\Debug\net8.0\Testing.deps.json
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\bin\Debug\net8.0\Testing.dll
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\bin\Debug\net8.0\Testing.pdb
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.sourcelink.json
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.dll
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\refint\Testing.dll
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.pdb
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+D:\Workspaces\Python-ejercicios\C#\Ejercicios\condicionales\Testing\Testing\obj\Debug\net8.0\ref\Testing.dll

@@ -25,5 +25,21 @@ def calcular_experiencia(nivel_jugador, dificultad_enemigo):
 nivel = 10
 dificultad = "nightmare"
 
-experiencia_ganada = calcular_experiencia(nivel, dificultad)
+experiencia_ganada = calcular_experiencia(200, "media")
+
+
+def mostrar_menu():
+    print("1. 10 veces")
+    print("2. 10 veces")
+    print("3. 10 veces")
+    print("4. 10 veces")
+    print("5. 10 veces")
+    print("10. Salir")
+    return int(input("¿Quieres jugar contra un enemigo? "))
+
+
+
+for i in range(nivel):
+    experiencia_ganada += calcular_experiencia(200, "media")
+
 print(f"El jugador de nivel {nivel} ganó {experiencia_ganada} puntos de experiencia al derrotar a un enemigo de dificultad {dificultad}.")
