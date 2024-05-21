@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Ejercicios",
-    "\\Ejercicios\\Variables"
+    "\\Ejercicios\\condicionales",
+    "\\Ejercicios\\condicionales\\Testing",
+    "\\Ejercicios\\condicionales\\Testing\\Testing",
+    "\\Ejercicios\\condicionales\\Testing\\Testing\\bucles",
+    "\\Ejercicios\\condicionales\\Testing\\Testing\\variables"
   ],
-  "SelectedNode": "\\Ejercicios\\Variables",
+  "SelectedNode": "\\Ejercicios\\condicionales\\Testing\\Testing\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

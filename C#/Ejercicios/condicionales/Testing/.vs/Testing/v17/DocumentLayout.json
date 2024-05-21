@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\variables\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\variables\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\variables\\ejer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\variables\\ejer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\paradigma1\\duendes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\paradigma1\\duendes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\condicionales\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\condicionales\\ejer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\paradigma1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\paradigma1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\paradigma1\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\paradigma1\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\paradigma1\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\paradigma1\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|d:\\workspaces\\python-ejercicios\\c#\\ejercicios\\condicionales\\testing\\testing\\paradigma1\\decaedro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E893A13E-9239-4900-8D73-1693502AACD0}|Testing\\Testing.csproj|solutionrelative:testing\\paradigma1\\decaedro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ejer2.cs",
-              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\variables\\ejer2.cs",
-              "RelativeDocumentMoniker": "Testing\\variables\\ejer2.cs",
-              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\variables\\ejer2.cs",
-              "RelativeToolTip": "Testing\\variables\\ejer2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T20:03:56.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ejer1.cs",
-              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\variables\\ejer1.cs",
-              "RelativeDocumentMoniker": "Testing\\variables\\ejer1.cs",
-              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\variables\\ejer1.cs",
-              "RelativeToolTip": "Testing\\variables\\ejer1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T19:40:16.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ejer2.cs",
-              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\condicionales\\ejer2.cs",
-              "RelativeDocumentMoniker": "Testing\\condicionales\\ejer2.cs",
-              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\condicionales\\ejer2.cs",
-              "RelativeToolTip": "Testing\\condicionales\\ejer2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T19:29:55.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Duendes.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Duendes.cs",
+              "RelativeDocumentMoniker": "Testing\\Paradigma1\\Duendes.cs",
+              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Duendes.cs",
+              "RelativeToolTip": "Testing\\Paradigma1\\Duendes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:40:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Program.cs",
               "RelativeDocumentMoniker": "Testing\\Program.cs",
               "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Program.cs",
               "RelativeToolTip": "Testing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAArwE0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:01:25.72Z",
+              "WhenOpened": "2024-05-21T22:48:18.407Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pentagono.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Pentagono.cs",
+              "RelativeDocumentMoniker": "Testing\\Paradigma1\\Pentagono.cs",
+              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Pentagono.cs",
+              "RelativeToolTip": "Testing\\Paradigma1\\Pentagono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:46:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Decaedro.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Decaedro.cs",
+              "RelativeDocumentMoniker": "Testing\\Paradigma1\\Decaedro.cs",
+              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Decaedro.cs",
+              "RelativeToolTip": "Testing\\Paradigma1\\Decaedro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:46:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Testing\\Paradigma1\\Triangulo.cs",
+              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Triangulo.cs",
+              "RelativeToolTip": "Testing\\Paradigma1\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:43:28.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Figura.cs",
+              "RelativeDocumentMoniker": "Testing\\Paradigma1\\Figura.cs",
+              "ToolTip": "D:\\Workspaces\\Python-ejercicios\\C#\\Ejercicios\\condicionales\\Testing\\Testing\\Paradigma1\\Figura.cs",
+              "RelativeToolTip": "Testing\\Paradigma1\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:23:08.468Z"
             }
           ]
         }
